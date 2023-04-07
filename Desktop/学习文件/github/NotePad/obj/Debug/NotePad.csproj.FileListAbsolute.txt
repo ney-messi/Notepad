@@ -1,0 +1,12 @@
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\bin\Debug\NotePad.exe
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\bin\Debug\NotePad.pdb
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.NotePad.resources
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.frmAbout.resources
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.exe
+C:\Users\陈静萱\Desktop\Windows程序设计\NotePad\obj\Debug\NotePad.pdb
